@@ -1,6 +1,6 @@
 # QR-Code-Marketing-dashboard-using-MS-Excel
-# An Excel dashboard with automated commentary showing KPIs of QR code marketing for a sample product
-# Sample data from DOST PH 
+## An Excel dashboard with automated commentary showing KPIs of QR code marketing for a sample product
+## Sample data from DOST PH 
 
 This dashboard was created with sample data from a DOST program to visualize important information in a sample QR code marketing campaign in the year 2016 for selling a product. Let's call the product, "PRODUCT X".
 
