@@ -4,7 +4,7 @@
 
 This dashboard was created with sample data from a DOST program to visualize important information in a sample QR code marketing campaign in the year 2016 for selling a product. Let's call the product, "PRODUCT X".
 
-The information presented in the dashboard gives an overview of how effective QR codes are in directing potential customers to landing pages - pages that lead or guide the potential customers to buy PRODUCT X. The metrics and KPIs here provide an insight on how many people are willing,  knowledgeable, and persuaded to take a snap of the QR code. 
+The information presented in the dashboard gives an overview of how effective QR codes and different advertisement locations are in directing potential customers to landing pages - pages that lead or guide the potential customers to buy PRODUCT X. The metrics and KPIs here provide an insight on how many people are willing,  knowledgeable, and persuaded to take a snap of the QR code. 
 
 
 Here are five essential QR code metrics to track:
